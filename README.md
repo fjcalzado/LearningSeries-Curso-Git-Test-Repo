@@ -6,3 +6,6 @@ v2 cambiado desde la nube
 Corregimos el error
 
 A
+ 
+
+Añadido por Javier Calzado
