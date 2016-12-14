@@ -12,3 +12,7 @@ Añadido por Javier Calzado
 Nuevo Cambio Añadido
 Cambios añadidos en server, github
 Problemas con SSH!
+
+Rama feature A commit 1
+Rama feature A commit 2
+Rama feature A commit 3 despues de merge
