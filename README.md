@@ -1,7 +1,7 @@
 # cursogit01
 Cursogit
 v3
-v2 cambiado desde la nube
+v2 cambiado desde la nube en master
 
 Corregimos el error
 
