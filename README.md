@@ -7,7 +7,7 @@ Corregimos el error
 
 A 
 Commit master 1 b
-Commit master 2
+Commit master 2 b
 Añadido por Javier Calzado
 Nuevo Cambio Añadido
 Cambios añadidos en server, github
